@@ -2,8 +2,8 @@
 College Placement Data Analysis using Tableau
 
 The data is available at Kaggle: https://www.kaggle.com/datasets/siddheshshivdikar/college-placement
-<br> It consists of information regarding college name, place, company and the salary offered.
-<br> Proper analysis of this data could result in getting useful insights for collge students about the expected salary and which companies to target in their preparation. 
+<br> It consists of information regarding college name, place, company, year and the salary offered.
+<br> Proper analysis of this data could result in getting useful insights for collage students about the expected salary and can help them decide which companies to target for in their preparation. 
 
 The csv files were uploaded to MySQL server and basic SQL queries (present in queries.sql) were implemented to learn more about the dataset
 
